@@ -6,7 +6,7 @@ describe "Qual elemento falta no array?" do
 		expect(solution([2])).to eq(1)
 	end
 	
-	it "array com 2 elemento faltando o 3" do
+	it "array com 2 elemento faltando o 1" do
 		expect(solution([3, 2])).to eq(1)
 	end
 
