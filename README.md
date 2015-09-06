@@ -1,2 +1,2 @@
 # codility-code
-My solutions code (codility)
+ruby code solutions for codility problems
