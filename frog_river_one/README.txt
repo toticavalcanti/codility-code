@@ -47,7 +47,7 @@ Complexity:
 expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(X), beyond input storage (not counting the storage required for input arguments)
 
-----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 Uma pequena rã quer chegar ao outro lado de um rio. A rã está localizada na posição 0 e quer chegar a posição X. As folhas caem de uma árvore sobre a superfície do rio.
 
