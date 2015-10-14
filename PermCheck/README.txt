@@ -1,4 +1,4 @@
-A non-empty zero-indexed array A consisting of N integers is given.
+﻿A non-empty zero-indexed array A consisting of N integers is given.
 
 A permutation is a sequence containing each element from 1 to N once, and only once.
 
@@ -96,7 +96,7 @@ Cada elemento de matriz A é um número inteiro dentro do intervalo [1..1,000,00
 
 complexidade:
 
-Espera que a complexidade de tempo no pior caso seja O (N);
-Espera que a complexidade de espaço no pior caso seja O (N), além do armazenamento de entrada (sem contar o armazenamento necessário para argumentos de entrada).
+Espera-se que a complexidade de tempo no pior caso seja O (N);
+Espera-se que a complexidade de espaço no pior caso seja O (N), além do armazenamento de entrada (sem contar o armazenamento necessário para argumentos de entrada).
 Elementos dos arrays de entrada podem ser modificados.
 
